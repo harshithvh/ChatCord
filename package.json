@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1"
+  },
+  "scripts": {
+    "start": "nodemon server-bot.js"
+  },
+  "name": "socket-io",
+  "version": "1.0.0",
+  "description": "Realtime chat app with rooms",
+  "main": "server.js",
+  "author": "Harshith VH",
+  "license": "MIT"
+}
